@@ -90,7 +90,6 @@ button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-vis
 .profile-photo-preview{width:140px;height:140px;border-radius:50%;overflow:hidden;margin:0 auto 16px;display:flex;align-items:center;justify-content:center;background:rgba(255,255,255,.06)}
 .profile-photo-preview img{width:100%;height:100%;object-fit:cover;object-position:center;display:block}
 
-
 /* Botão para registrar uma quantidade de água personalizada */
 .custom-water-button {
   min-height: 44px;
